@@ -1,6 +1,6 @@
-## **Привет**
+## **Привет!**
 
-Я аналитик данных. В профессию пришел из экономики и финансов, где всерьез увлекся сначала цифрами и всем, что за ними стоит, а потом их получением из различных источников, обработкой и визуализацией.
+Я продуктовый аналитик. В профессию пришел из экономики и финансов, где всерьез увлекся сначала цифрами и всем, что за ними стоит, а потом - гипотезами и экспериментами как все это сдвинуть в нужную сторону.
 
 Чуть подробнее о моем опыте [здесь](./cv.md)
 <br>
@@ -8,12 +8,13 @@
 
 ### Технологии
 
-- python
-- numpy, pandas, scipy, ARIMA, SARIMA
-- sklearn, xgboost
-- matplotlib, seaborn, plotly, dash
-- sql (MSSQL, MySQL, Vertica, PostgreSQL)
-- docker, git, linux
+- python (*numpy, pandas, statsmodels, scipy, sklearn, ...*)
+- sql (*Oracle, ClickHouse, Vertica, Postgres, MSSQL, MySQLe*)
+- исследования (*аб-тесты, ARIMA, SARIMA, эконометрика*)
+- визуализация (*matplotlib, seaborn, plotly, dash*)
+- BI (*Power BI, Superset, Redash, QlikView*)
+- ETL (*Airflow*)
+- Прочее(*docker, git, linux, ...*)
 <br>
 <br>
 <br>
